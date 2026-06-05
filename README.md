@@ -64,39 +64,56 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaiHuynhDuongTuanKiet22664321&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+[![GitHub Stats](https://github-readme-stats-git-main-anuraghazra.vercel.app/api?username=MaiHuynhDuongTuanKiet22664321&show_icons=true&theme=dark&count_private=true)](https://github.com/MaiHuynhDuongTuanKiet22664321)
 
-### 🔝 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiHuynhDuongTuanKiet22664321&layout=compact&theme=tokyonight&hide_border=true)
+### 🔝 Top Languages
+[![Top Languages](https://github-readme-stats-git-main-anuraghazra.vercel.app/api/top-langs/?username=MaiHuynhDuongTuanKiet22664321&layout=compact&theme=dark)](https://github.com/MaiHuynhDuongTuanKiet22664321)
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Milestones
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MaiHuynhDuongTuanKiet22664321&theme=nord&column=4&margin-w=5&margin-h=5&no-frame=false)
+| 🎯 | Achievement |
+|:---:|---|
+| ⭐ | **Active Developer** - Đóng góp code thường xuyên |
+| 🚀 | **Fullstack Development** - Web & Mobile |
+| 🤖 | **AI & ML Projects** - Python, TensorFlow |
+| 💻 | **Cross-platform Development** - Java, JavaScript, Python |
+| 📚 | **Continuous Learner** - Luôn cập nhật công nghệ mới |
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 💼 Featured Projects
 
-<div align="center">
+| 🎵 | [Music Management App](https://github.com/MaiHuynhDuongTuanKiet22664321/music-management) |
+|:---:|---|
+| Ứng dụng quản lý và phát nhạc với GUI đẹp | **Java Swing • MySQL • OOP** |
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaiHuynhDuongTuanKiet22664321&theme=tokyo-night&hide_border=true)](https://github.com/MaiHuynhDuongTuanKiet22664321)
+| 📱 | [Mobile Ticket Booking](https://github.com/MaiHuynhDuongTuanKiet22664321/ticket-booking) |
+|:---:|---|
+| App đặt vé xem phim với xác thực và thanh toán | **React Native • Firebase • Payment Integration** |
 
-</div>
+| 📊 | [Data Mining Project](https://github.com/MaiHuynhDuongTuanKiet22664321/data-mining) |
+|:---:|---|
+| Khai phá luật kết hợp sản phẩm bằng thuật toán Apriori | **Java • Weka • Data Analysis** |
+
+| 🤖 | [AI/ML Experiments](https://github.com/MaiHuynhDuongTuanKiet22664321/ml-projects) |
+|:---:|---|
+| Các dự án học máy và xử lý dữ liệu | **Python • TensorFlow • Scikit-learn** |
 
 ---
+
 ## 📫 Get in Touch
 
 <div align="center">
@@ -113,7 +130,7 @@
 ---
 
 <div align="center">
-  
+
 ### 💭 "Code is poetry written in logic"
   
 ⭐️ **Nếu bạn thích repo này, hãy cho một star nhé!** ⭐️
