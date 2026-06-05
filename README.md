@@ -97,27 +97,6 @@
 </div>
 
 ---
-
-## 💼 Featured Projects
-
-| 🎵 | [Music Management App](https://github.com/MaiHuynhDuongTuanKiet22664321/music-management) |
-|:---:|---|
-| Ứng dụng quản lý và phát nhạc với GUI đẹp | **Java Swing • MySQL • OOP** |
-
-| 📱 | [Mobile Ticket Booking](https://github.com/MaiHuynhDuongTuanKiet22664321/ticket-booking) |
-|:---:|---|
-| App đặt vé xem phim với xác thực và thanh toán | **React Native • Firebase • Payment Integration** |
-
-| 📊 | [Data Mining Project](https://github.com/MaiHuynhDuongTuanKiet22664321/data-mining) |
-|:---:|---|
-| Khai phá luật kết hợp sản phẩm bằng thuật toán Apriori | **Java • Weka • Data Analysis** |
-
-| 🤖 | [AI/ML Experiments](https://github.com/MaiHuynhDuongTuanKiet22664321/ml-projects) |
-|:---:|---|
-| Các dự án học máy và xử lý dữ liệu | **Python • TensorFlow • Scikit-learn** |
-
----
-
 ## 📫 Get in Touch
 
 <div align="center">
