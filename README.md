@@ -67,8 +67,13 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaiHuynhDuongTuanKiet22664321&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiHuynhDuongTuanKiet22664321&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaiHuynhDuongTuanKiet22664321&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+
+### 🔝 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiHuynhDuongTuanKiet22664321&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
@@ -76,7 +81,19 @@
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaiHuynhDuongTuanKiet22664321&theme=tokyonight&no-frame=true&margin-w=5" alt="GitHub Trophies" />
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MaiHuynhDuongTuanKiet22664321&theme=nord&column=4&margin-w=5&margin-h=5&no-frame=false)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaiHuynhDuongTuanKiet22664321&theme=tokyo-night&hide_border=true)](https://github.com/MaiHuynhDuongTuanKiet22664321)
+
 </div>
 
 ---
@@ -98,14 +115,6 @@
 | 🤖 | [AI/ML Experiments](https://github.com/MaiHuynhDuongTuanKiet22664321/ml-projects) |
 |:---:|---|
 | Các dự án học máy và xử lý dữ liệu | **Python • TensorFlow • Scikit-learn** |
-
----
-
-## 📈 Activity & Contributions
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaiHuynhDuongTuanKiet22664321&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
 
 ---
 
